@@ -44,7 +44,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'https://yii-extension.github.io/blog.github.io//en/assets/js/search-data.json', true);
+  request.open('GET', 'http://localhost:4000/en/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
