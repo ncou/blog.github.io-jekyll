@@ -435,6 +435,14 @@ li .highlight { margin-top: 0.5rem; }
 
 .btn-green.selected:hover { background-color: #0d8662; }
 
+.btn-yii { color: #fff; background-color: #17526a; background-image: linear-gradient(#1e6887, #17526a); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
+
+.btn-yii:hover, .btn-yii.zeroclipboard-is-hover { color: #fff; background-color: #154b61; background-image: linear-gradient(#1b5e7a, #154b61); }
+
+.btn-yii:active, .btn-yii.selected, .btn-yii.zeroclipboard-is-active { background-color: #14485d; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
+
+.btn-yii.selected:hover { background-color: #103848; }
+
 .search { position: relative; z-index: 99; flex-grow: 1; height: 100%; margin-bottom: 0.75rem; }
 
 @media (min-width: 50rem) { .search { margin-bottom: 0; } }
