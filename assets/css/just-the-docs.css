@@ -1447,4 +1447,6 @@ body > div > div.side-bar > footer > p { color: #fff !important; font-weight: 50
 
 body > div > div.side-bar > footer > p > a { color: #fff; font-weight: 700; }
 
+.dropdown-item.active, .dropdown-item:active { color: #fff; text-decoration: none; background-color: #009c7b; }
+
 /*# sourceMappingURL=just-the-docs.css.map */
