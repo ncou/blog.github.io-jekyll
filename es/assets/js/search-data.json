@@ -1,0 +1,16 @@
+{
+  
+  "0": {
+    "title": "",
+    "content": "'+content+'",
+    "url": "https://yii-extension.github.io/blog.github.io/es/404.html",
+    "relUrl": "/404.html"
+  }
+  ,"1": {
+    "title": "Inicio",
+    "content": "'+content+'",
+    "url": "https://yii-extension.github.io/blog.github.io/es/",
+    "relUrl": "/"
+  }
+  
+}

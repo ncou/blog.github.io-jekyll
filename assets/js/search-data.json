@@ -3,13 +3,13 @@
   "0": {
     "title": "",
     "content": "'+content+'",
-    "url": "/blog.github.io/404.html",
+    "url": "https://yii-extension.github.io/blog.github.io/404.html",
     "relUrl": "/404.html"
   }
   ,"1": {
-    "title": "Inicio",
+    "title": "Home",
     "content": "'+content+'",
-    "url": "/blog.github.io/",
+    "url": "https://yii-extension.github.io/blog.github.io/",
     "relUrl": "/"
   }
   
