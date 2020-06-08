@@ -3,19 +3,19 @@
   "0": {
     "title": "",
     "content": "'+content+'",
-    "url": "http://localhost:4000/es/404.html",
+    "url": "https://yii-extension.github.io/blog.github.io/es/404.html",
     "relUrl": "/404.html"
   }
   ,"1": {
     "title": "Inicio",
     "content": "'+content+'",
-    "url": "http://localhost:4000/es/",
+    "url": "https://yii-extension.github.io/blog.github.io/es/",
     "relUrl": "/"
   }
   ,"2": {
     "title": "Repositorios",
     "content": "'+content+'",
-    "url": "http://localhost:4000/es/packages.html",
+    "url": "https://yii-extension.github.io/blog.github.io/es/packages.html",
     "relUrl": "/packages.html"
   }
   
